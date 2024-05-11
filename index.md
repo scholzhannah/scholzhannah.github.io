@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 classes: wide
 ---
-Hi, my name is Hannah Scholz. I am happy you're visting my page 😀. This is very much a work in progress and I have no idea how to use jekyll so please excuse the mess...
+Hi, my name is Hannah Scholz. I am happy you're visting my page :). This is very much a work in progress and I have no idea how to use jekyll so please excuse the mess...
 
 I am currently a Bachelor's student in my sixth semester at the University of Bonn. This semester I am writing my Bachelor's thesis trying to formalize CW-complexes in [lean](https://leanprover-community.github.io/). My supervisor is [Prof. Floris van Doorn](https://florisvandoorn.com/). See my github repository for this project [here](https://github.com/scholzhannah/CWComplexes).
 
