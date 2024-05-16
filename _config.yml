@@ -11,6 +11,7 @@ markdown: kramdown
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -85,3 +86,21 @@ footer:
 
 atom_feed:
   hide                   : true
+
+search: true
+
+lunr:
+  search_within_pages: true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
