@@ -84,13 +84,11 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-atom_feed:
-  hide                   : true
-
-search: true
-
+search                   : true
+search_full_content      : true
+search_provider          : lunr
 lunr:
-  search_within_pages: true
+  search_within_pages    : true
 
 defaults:
   # _posts
@@ -102,5 +100,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
