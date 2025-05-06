@@ -25,7 +25,7 @@ title: CV
 
 
 **Experience in the support of women in STEM**
-- September 2023 - present: co-organizer and coordinator of the event series [Tea Time with Women in Mathematics](https://www.mathematics.uni-bonn.de/hcm/community/tea-time-with-women-in-mathematics) at the university of Bonn
+- September 2023 - present: co-organizer (and since 2025 coordinator) of the event series [Tea Time with Women in Mathematics](https://www.mathematics.uni-bonn.de/hcm/community/tea-time-with-women-in-mathematics) at the university of Bonn
 - October 2023 - present: mentor as part of the online mentoring program [Cybermentor](https://www.cybermentorin.de/index.php/en/) for school-aged girls interested in STEM
 - July 2024 - present: member of the [Equal Opportunity Working Group](https://www.mathematics.uni-bonn.de/de/fachgruppe-mathematik/gleichstellungsag) of the mathematics department at the university of Bonn
 - January 2025 - present: member of the department of equality and awareness of the [Fachschaft Mathematics](https://fsmath.uni-bonn.de/) at the university of Bonn. 
