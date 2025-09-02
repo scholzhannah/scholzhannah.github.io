@@ -5,6 +5,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://scholzhannah.de" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  hannahscholz
+repository: scholzhannah/scholzhannah.github.io
 
 # Build settings
 markdown: kramdown
@@ -102,3 +103,13 @@ defaults:
       comments: true
       share: false
       related: true
+
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id              : "R_kgDOLuHKvg"
+    category_name        : "Announcements"
+    category_id          : "DIC_kwDOLuHKvs4Cu43P"
+    discussion_term      : "title"
+    reactions_enabled    : '1'
+    theme                : "light"
