@@ -38,7 +38,7 @@ Some of the reviews I read mentioned how they just skipped all the equations and
 They still seemed to enjoy the book and ultimately I think you should read for your own enjoyment but I still feel they are missing out on a central premise of the book. 
 I of course could not really experience this myself but I hope that this book could be a way for people to see the beauty in mathematics that so often is not visible in the maths taught in school. 
 
-# 2. "Flatland - Flatland: A Romance of Many Dimensions" by Edwin A. Abbot (1884)
+# 2. "Flatland: A Romance of Many Dimensions" by Edwin A. Abbot (1884)
 
 After deciding on my quest to read mathematical fiction, I of course needed to move on to what might be considered the absolute classic of this genre: Flatland.
 It is such a classic that the local library in Bonn had it available and I think I had even seen an animated version of it at some math competition, although I remember nothing at all about it. 
@@ -119,3 +119,24 @@ As mentioned above the text is also adorned with drawings to help you understand
 To give you an idea of the level of mathematics in this book: I think the hardest idea presented in the book is how to get a line by combining infinitely many points, a square by combining infinitely many lines and a cube by combining infinitely many squares (and then considering how the number of points and faces evolves).
 
 In fact, I think you will probably enjoy this book most if you are curious about mathematics but have not studied it further after school. You might notice that in the section about my impression I hardly comment on the mathematics. That is mostly because I already have a pretty okay understanding of how dimensions work and thus didn't get the feeling of enlightenment that a lot of people seem to experience after reading it. 
+
+# 2. "Katabasis" by Rebecca F. Kuang (2025)
+
+This is a book that I bought purely for my own enjoyment without anticipating that it would end up on this list. It is the first of her books that I have read. When I saw half the English section of the bookstore filled with this book after it just came out, I got FOMO and bought it despite the steep hardcover price. But I guess it was worth it as I can now write about a brand new book here. 
+
+## Brief Summary
+
+The main character of this book is Alice Law, a PhD student in analytic magick (yes, spelled like this) working for a world-renowned but also notorious professor at Cambridge. After slaving away for years under him and managing his terrible personality, he suddenly dies. She cannot accept that all her work is supposed to be in vain and comes to the only logical conclusion: she should go to hell to find him and get at least a recommendation letter. Unexpectedly, another student of her advisor, and also her rival, called Peter Murdoch decides to join her. 
+
+On their quest through the underworld they try to work out what hells topography actually looks like, which sins their advisor might have committed and in which court of hell that would land him, but also how they actually feel about him, graduate life, academia in general and each other. This leads to interesting discussions about academia: dependence on advisors, compromising of health and work-life-balance for the chance to advance in an academic career and how this pressure affects the relationships within university. 
+
+The worldbuilding is where maths comes in: the way magick works in this world is that you fool the universe with a paradox, which you describe with chalk in a pentagram. This makes the erroneous conclusion of that paradox become true where the paradox is inscribed. One example is the sorites paradox that was already described in ancient greece: if you have a heap of sand and you take away one grain, the collection of sand that is left is still a heap. Therefore, however many grains of sand you take away from the heap, it still is a heap. Thus the heap contains infinite grains of sand. In the world of Katabasis, you could write this paradox into a pentagram and place sand on top which would then never run out. In the book there are different sources for paradoxes: Alice for example is a linguistic magician, finding paradoxes in ancient Chinese texts and so on. Peter, however, is a mathematical magician. But some mathematical knowledge seems to be required for any magician, as Alice and Peter have regular conversations about maths and especially logic: they for example wonder what the topology of hell is like; Peter does not believe that it is Euclidean.
+
+The book does not only reference maths in this way. There are a lot of references to philosophy and literature as well. Even among the maths references I had to google quite a few. (I think paradoxes are more discussed among philosophers.) I didn't really have the energy to also google all mentions of philosophy and literature, so I will mostly not comment on those. 
+
+## My Impression
+
+## The Authors Connection to Mathematics
+
+## Mathematical prerequisites
+ 
