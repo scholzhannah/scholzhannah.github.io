@@ -21,7 +21,7 @@ title: CV
 
 
 **Research Experience**
-- November 2024 - present: Research assistant formalizing CW complexes in Lean (8 hours a week, supervised by [Prof. Floris van Doorn](https://florisvandoorn.com/))
+- November 2024 - September 2025: Research assistant formalizing CW complexes in Lean (8 hours a week, supervised by [Prof. Floris van Doorn](https://florisvandoorn.com/))
 
 
 **Experience in the support of women in STEM**
@@ -32,10 +32,10 @@ title: CV
 
 
 **Teaching experience**
-- Winter term 2023/2024: tutor in the class “Analysis I”
-- September 2022 and September 2023: tutor in the preparatory course for freshmen of the bachelors degree in mathematics
+- October 2025 - present: tutor for the class "Computer-assisted Mathematics"
+- Winter term 2023/2024: tutor for the class “Analysis I”
+- September 2022 and September 2023: tutor for the preparatory course for freshmen of the bachelors degree in mathematics
 
 
 **Awards and scholarships**
-- academic years 2022/2023, 2023/2024 and 2024/2025: one-year merit scholarship “Deutschlandstipendium"
-- 2018: second prize in the national round of the German Mathematical Olympiad
+- academic years 2022/2023, 2023/2024, 2024/2025, 2025/26: one-year merit scholarship “Deutschlandstipendium"
