@@ -14,10 +14,9 @@ title: CV
     Final grade average: 1,0 
 
 **Skills**
-- Language: German (native language), English (proficient), Spanish (advanced), French (beginner)
+- Language: German (native language), English (proficient), Spanish (advanced), French (beginner), Korean (beginner)
 - Theorem proving: Lean (intermediate)
 - Programming: Python (basic), C++ (basic)
-
 
 **Research Experience**
 - November 2024 - September 2025: Research assistant formalizing CW complexes in Lean (8 hours a week, supervised by [Prof. Floris van Doorn](https://florisvandoorn.com/))
