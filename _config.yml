@@ -71,7 +71,7 @@ footer:
       url: "mailto:scholz.hannah@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://scholzhannah.de"
+      # url: "https://scholzhannah.de"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
