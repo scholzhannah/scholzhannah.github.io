@@ -25,7 +25,7 @@ title: CV
 - January 2026: "Formalisation of CW complexes" at [Lean Together 2026](https://leanprover-community.github.io/lt2026/) ([video](https://youtu.be/XoV8OC4l2IE?si=3tIQO6HmBZK-6YZn) \| [slides](/download/formalisationofcwcomplexes.pdf))
 
 **Teaching experience**
-- October 2025 - present: tutor for the class "Computer-assisted Mathematics" taught by [Prof. Floris van Doorn](https://florisvandoorn.com/) and [Dr. Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/)
+- Winter term 2025/2026: tutor for the class "Computer-assisted Mathematics" taught by [Prof. Floris van Doorn](https://florisvandoorn.com/) and [Dr. Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/)
 - Winter term 2023/2024: tutor for the class “Analysis I” taught by [Prof. Herbert Koch](https://www.math.uni-bonn.de/~koch/?language=en)
 - September 2022 and September 2023: tutor for the preparatory course for freshmen of the bachelors degree in mathematics taught by [Dr. Regula Krapf](https://www.math.uni-bonn.de/people/krapf/?language=en) and [Dr. Antje Kiesel](https://www.math.uni-bonn.de/people/kiesel/?language=en)
 
