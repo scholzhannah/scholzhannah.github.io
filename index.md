@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 classes: wide
 ---
-Hi, my name is Hannah Scholz (she/her). I am happy you're visting my page :). 
+Hi, my name is Hannah Scholz and my pronouns are she/her. I am happy you're visting my page :). 
 
 I am a Master's student in mathematics in my fourth semester at the University of Bonn. I am especially interested in formalization using the proof assistant [Lean](https://lean-lang.org/). In this area I have mainly worked on formalizing the classical approach to CW complexes (together with and supervised by [Prof. Floris van Doorn](https://florisvandoorn.com/)). Parts of this work have already made their way into Lean's mathematical library [Mathlib](https://github.com/leanprover-community/mathlib4). You can find the github repository of my project [here](https://github.com/scholzhannah/CWComplexes). I talked about this project at [Lean Together 2026](https://leanprover-community.github.io/lt2026/). You can see the video of the talk [here](https://youtu.be/XoV8OC4l2IE?si=3tIQO6HmBZK-6YZn) and the slides are [here](/download/formalisationofcwcomplexes.pdf).
 

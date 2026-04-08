@@ -9,13 +9,13 @@ Below you can find information about my scientific activities.
 
 ## Upcoming
 
-- In March 2026, I will attend the [Mathlib Reviewer Bootcamp](https://yaeldillies.github.io/mrb2026) at Stockholm University.
-
 - In June 2026, I plan to give a talk in the [Research Seminar on Formal Mathematics in Heidelberg](https://matematiflo.github.io/FormalMathSeminar/SS2026.html) at Heidelberg University.
 
 ## Past
 
 ### 2026
+
+- In March 2026, I attended the [Mathlib Reviewer Bootcamp](https://yaeldillies.github.io/mrb2026) at Stockholm University.
 
 - In March 2026, I attended the [Leaning In!](https://leaning.in/2026/) workshop at the Spielfeld Digital Hub in Berlin.
 
