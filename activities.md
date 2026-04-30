@@ -15,7 +15,7 @@ Below you can find information about my scientific activities.
 
 ### 2026
 
-- In March 2026, I attended the [Mathlib Reviewer Bootcamp](https://yaeldillies.github.io/mrb2026) at Stockholm University.
+- In March 2026, I attended the [Mathlib Reviewer Bootcamp](https://yaeldillies.github.io/mrb2026) at Stockholm University. I wrote a [blog post](https://leanprover-community.github.io/blog/posts/mathlib-reviewer-bootcamp/) about this together with [Rida Hamadani](https://ridahamadani.com/) for the [Lean Community Blog](https://leanprover-community.github.io/blog/). 
 
 - In March 2026, I attended the [Leaning In!](https://leaning.in/2026/) workshop at the Spielfeld Digital Hub in Berlin.
 
@@ -28,4 +28,4 @@ Below you can find information about my scientific activities.
 
 - In May 2024, I attended the Workshop [Formalisation of Mathematics: Workshop for Women and Mathematicians of Minority Gender](https://icms.ac.uk/archive/workshop/formalisation-of-mathematics-workshop-for-women-and-mathematicians-of-minority-gender/) at the International Centre for Mathematical Sciences in Edinburgh.
 
-- In April 2024, I attended the conference [GROW@Bonn 2024](https://www.mpim-bonn.mpg.de/GROW2024) at the Max Planck Institute for Mathematics in Bonn. 
+- In April 2024, I attended the conference [GROW@Bonn 2024](https://www.mpim-bonn.mpg.de/GROW2024) at the Max Planck Institute for Mathematics in Bonn. I wrote a [blog post]({% post_url 2024-05-18-GROW@Bonn %}) about this on my blog. 
