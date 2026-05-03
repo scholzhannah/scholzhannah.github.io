@@ -9,6 +9,6 @@ I will use this page to collect random things that I want to put online somewher
 
 ## Postcards
 
-I collect old postcards which I buy at flea markets. I enjoy seeing how places I know looked in the past. This is why I mostly collect postcards from Potsdam and Bonn. I am working on digitizing them and putting them on the map which you can find below. Click on a photo icon to see the corresponding postcard. 
+I collect old postcards which I buy at flea markets. I enjoy seeing how places I know have looked in the past. This is why I mostly collect postcards from Potsdam and Bonn. I am working on digitizing them and putting them on a map which you can find below. Click on a photo icon to see the corresponding postcard. Can you find my oldest postcard (from 1896)?
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1Qs_pv3DVCjoQAzhWnYzkfINycWRMsJs&ehbc=2E312F" height="600px" width="100%"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1Qs_pv3DVCjoQAzhWnYzkfINycWRMsJs&ehbc=2E312F" height="600px" width="100%"></iframe>s
