@@ -29,7 +29,7 @@ title: CV
 - Winter term 2023/2024: tutor for the class “Analysis I” taught by [Prof. Herbert Koch](https://www.math.uni-bonn.de/~koch/?language=en)
 - September 2022 and September 2023: tutor for the preparatory course for freshmen of the bachelors degree in mathematics taught by [Dr. Regula Krapf](https://www.math.uni-bonn.de/people/krapf/?language=en) and [Dr. Antje Kiesel](https://www.math.uni-bonn.de/people/kiesel/?language=en)
 
-**Experience in the support of women in STEM**
+**Experience in the support of women* in STEM**
 - September 2023 - present: co-organizer (and since 2025 coordinator) of the event series [Tea Time with Women in Mathematics](https://www.mathematics.uni-bonn.de/hcm/community/tea-time-with-women-in-mathematics) at the university of Bonn
 - October 2023 - present: mentor as part of the online mentoring program [Cybermentor](https://www.cybermentorin.de/index.php/en/) for school-aged girls interested in STEM
 - July 2024 - present: member of the [Equal Opportunity Working Group](https://www.mathematics.uni-bonn.de/de/fachgruppe-mathematik/gleichstellungsag) of the mathematics department at the university of Bonn
@@ -41,3 +41,7 @@ title: CV
 
 **Scholarships**
 - academic years 2022/2023, 2023/2024, 2024/2025, 2025/26: one-year merit scholarship “Deutschlandstipendium"
+
+**Unpublished Writing** 
+- "Strengths and Limits of Formalisation: CW complexes as an example", Essay, 2026, [Mathematical Essay from Bonn Collective](https://meb-collective.github.io/meb/index.html), ([pdf](https://meb-collective.github.io/meb/resources/MEB20261.pdf))
+- "Formalisation of CW complexes", Bachelor's thesis, 2024, ([pdf](https://github.com/scholzhannah/CWComplexes/blob/master/Latex/Thesis/thesis.pdf))
