@@ -5,11 +5,12 @@ classes: wide
 ---
 Hi, my name is Hannah Scholz and my pronouns are she/her. I am happy you're visting my page :). 
 
-I am a Master's student in mathematics in my fourth semester at the University of Bonn. I am especially interested in formalization using the proof assistant [Lean](https://lean-lang.org/). I wrote an essay titled "Strengths and Limits of Formalisation: CW complexes as an example" for the [Mathematical Essays from Bonn (MEB) Collective](https://meb-collective.github.io/meb/index.html) which you can find [here](https://meb-collective.github.io/meb/resources/MEB20261.pdf).
+I am a Master's student in mathematics in my fourth semester at the University of Bonn. I am especially interested in formalization using the proof assistant [Lean](https://lean-lang.org/). I have recently become a [reviewer](https://leanprover-community.github.io/teams/reviewers.html) for the mathematical library [Mathlib]((https://github.com/leanprover-community/mathlib4)) of Lean. 
+I wrote an essay titled "Strengths and Limits of Formalisation: CW complexes as an example" for the [Mathematical Essays from Bonn (MEB) Collective](https://meb-collective.github.io/meb/index.html) which you can find [here](https://meb-collective.github.io/meb/resources/MEB20261.pdf).
 
 I am currently writing my Master's thesis titled "Formalising differential geometry: the collar neighbourhood theorem and meta programming" supervised by [Dr. Michael Rothgang](https://www.math.uni-bonn.de/people/rothgang/). 
 
-I am also working on formalizing the classical approach to CW complexes (together with and supervised by [Prof. Floris van Doorn](https://florisvandoorn.com/)). Parts of this work have already made their way into Lean's mathematical library [Mathlib](https://github.com/leanprover-community/mathlib4). You can find the github repository of my project [here](https://github.com/scholzhannah/CWComplexes). I talked about this project at [Lean Together 2026](https://leanprover-community.github.io/lt2026/). You can see the video of the talk [here](https://youtu.be/XoV8OC4l2IE?si=3tIQO6HmBZK-6YZn) and the slides are [here](/download/formalisationofcwcomplexes.pdf).
+I am also working on formalizing the classical approach to CW complexes (together with and supervised by [Prof. Floris van Doorn](https://florisvandoorn.com/)). Parts of this work have already made their way into Mathlib. You can find the github repository of my project [here](https://github.com/scholzhannah/CWComplexes). I talked about this project at [Lean Together 2026](https://leanprover-community.github.io/lt2026/). You can see the video of the talk [here](https://youtu.be/XoV8OC4l2IE?si=3tIQO6HmBZK-6YZn) and the slides are [here](/download/formalisationofcwcomplexes.pdf).
 
 Starting March 2027, I will be a PhD student at [Imperial College London](https://www.imperial.ac.uk/) supervised by [Dr. Heather Macbeth](https://www.ma.imperial.ac.uk/~hmacbeth/).
 

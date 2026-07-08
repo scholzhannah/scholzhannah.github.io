@@ -29,6 +29,10 @@ title: CV
 - Winter term 2023/2024: tutor for the class “Analysis I” taught by [Prof. Herbert Koch](https://www.math.uni-bonn.de/~koch/?language=en)
 - September 2022 and September 2023: tutor for the preparatory course for freshmen of the bachelors degree in mathematics taught by [Dr. Regula Krapf](https://www.math.uni-bonn.de/people/krapf/?language=en) and [Dr. Antje Kiesel](https://www.math.uni-bonn.de/people/kiesel/?language=en)
 
+**Academic Service**
+- June 2026 - present: [reviewer](https://leanprover-community.github.io/teams/reviewers.html) for the mathematical library Mathlib of Lean
+- December 2026 - present: elected member of the student council (Fachschaftsrat) of the [Fachschaft Mathematics](https://www.fsmath.uni-bonn.de/en/home-page?set_language=en) at the university of Bonn
+
 **Experience in the support of women* in STEM**
 - September 2023 - present: co-organizer (and since 2025 coordinator) of the event series [Tea Time with Women in Mathematics](https://www.mathematics.uni-bonn.de/hcm/community/tea-time-with-women-in-mathematics) at the university of Bonn
 - October 2023 - present: mentor as part of the online mentoring program [Cybermentor](https://www.cybermentorin.de/index.php/en/) for school-aged girls interested in STEM
@@ -37,7 +41,6 @@ title: CV
 
 **Additional volunteering experience**
 - Winter term 2025/2026: member of the appointment committee for the Bonn Junior Fellows
-- December 2026 - present: elected member of the student council (Fachschaftsrat) of the [Fachschaft Mathematics](https://www.fsmath.uni-bonn.de/en/home-page?set_language=en) at the university of Bonn
 
 **Scholarships**
 - academic years 2022/2023, 2023/2024, 2024/2025, 2025/26: one-year merit scholarship “Deutschlandstipendium"
