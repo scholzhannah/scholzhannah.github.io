@@ -9,17 +9,17 @@ Below you can find information about my scientific activities.
 
 ## Upcoming
 
-- In June 2026, I plan to give a talk in the [Research Seminar on Formal Mathematics in Heidelberg](https://matematiflo.github.io/FormalMathSeminar/SS2026.html) at Heidelberg University.
-
 ## Past
 
 ### 2026
+
+- In June 2026, I gave a talk in the [Research Seminar on Formal Mathematics in Heidelberg](https://matematiflo.github.io/FormalMathSeminar/SS2026.html) at Heidelberg University. ([slides](/download/formalisationofcwcomplexesheidelberg.pdf))
 
 - In March 2026, I attended the [Mathlib Reviewer Bootcamp](https://yaeldillies.github.io/mrb2026) at Stockholm University. I wrote a [blog post](https://leanprover-community.github.io/blog/posts/mathlib-reviewer-bootcamp/) about this together with [Rida Hamadani](https://ridahamadani.com/) for the [Lean Community Blog](https://leanprover-community.github.io/blog/). 
 
 - In March 2026, I attended the [Leaning In!](https://leaning.in/2026/) workshop at the Spielfeld Digital Hub in Berlin.
 
-- In January 2026, I gave a talk titled "Formalisation of CW complexes" at the virtual conference [Lean Together 2026](https://leanprover-community.github.io/lt2026/) ([video](https://youtu.be/XoV8OC4l2IE?si=3tIQO6HmBZK-6YZn) \| [slides](/download/formalisationofcwcomplexes.pdf)). 
+- In January 2026, I gave a talk titled "Formalisation of CW complexes" at the virtual conference [Lean Together 2026](https://leanprover-community.github.io/lt2026/). ([video](https://youtu.be/XoV8OC4l2IE?si=3tIQO6HmBZK-6YZn) \| [slides](/download/formalisationofcwcomplexes.pdf)). 
 
 
 ### 2024 
