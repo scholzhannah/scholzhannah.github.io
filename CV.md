@@ -22,7 +22,7 @@ title: CV
 - November 2024 - September 2025: Research assistant formalizing CW complexes in Lean (8 hours a week, supervised by [Prof. Floris van Doorn](https://florisvandoorn.com/))
 
 **Research talks**
-- March 2026: at the [Research Seminar on Formal Mathematics in Heidelberg](https://matematiflo.github.io/FormalMathSeminar/SS2026.html) ([slides](/download/formalisationofcwcomplexesheidelberg.pdf))
+- March 2026: "Formalising CW complexes in Lean" at the [Research Seminar on Formal Mathematics in Heidelberg](https://matematiflo.github.io/FormalMathSeminar/SS2026.html) ([slides](/download/formalisationofcwcomplexesheidelberg.pdf))
 - January 2026: "Formalisation of CW complexes" at [Lean Together 2026](https://leanprover-community.github.io/lt2026/) ([video](https://youtu.be/XoV8OC4l2IE?si=3tIQO6HmBZK-6YZn) \| [slides](/download/formalisationofcwcomplexes.pdf))
 
 **Teaching experience**
