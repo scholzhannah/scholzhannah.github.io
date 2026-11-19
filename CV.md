@@ -33,12 +33,12 @@ title: CV
 **Academic Service**
 - June 2026 - present: [reviewer](https://leanprover-community.github.io/teams/reviewers.html) for the mathematical library Mathlib of Lean
 
-**Experience in the support of women* in STEM**
+**Experience in the support of FLINTA* in STEM**
 - September 2023 - present: co-organizer (and since 2025 coordinator) of the event series [Tea Time with Women in Mathematics](https://www.mathematics.uni-bonn.de/hcm/community/tea-time-with-women-in-mathematics) at the university of Bonn
-- October 2023 - present: mentor as part of the online mentoring program [Cybermentor](https://www.cybermentorin.de/index.php/en/) for school-aged girls interested in STEM
 - July 2024 - present: member of the [Equal Opportunity Working Group](https://www.mathematics.uni-bonn.de/de/fachgruppe-mathematik/gleichstellungsag) of the mathematics department at the university of Bonn
 - January 2025 - present: member (and in 2026 head) of the department of equality and awareness of the [Fachschaft Mathematics](https://www.fsmath.uni-bonn.de/en/home-page?set_language=en) at the university of Bonn. 
 - May 2026 - present: member of the equal opportunities project group of the Faculty of Mathematics and Natural Sciences
+- October 2023 - September 2026: mentor as part of the online mentoring program [Cybermentor](https://www.cybermentorin.de/index.php/en/) for school-aged girls interested in STEM
 
 **Additional volunteering experience**
 - December 2026 - present: elected member of the student council (Fachschaftsrat) of the [Fachschaft Mathematics](https://www.fsmath.uni-bonn.de/en/home-page?set_language=en) at the university of Bonn
